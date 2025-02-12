@@ -1,0 +1,21 @@
+{
+    "Assessment": "This paper presents a new method called MINT that is effective at BCI-style decoding tasks. The authors provide convincing evidence that MINT achieves excellent decoding performance relative to the state-of-the-art. The work is important and will be of broad interest to neuroscientists and neuroengineers.",
+    "Significance": "Important",
+    "Strength of Evidence": "Convincing",
+    "Summary": "This paper introduces an innovative trajectory-centric decoding approach for brain-computer interfaces (BCIs) called MINT. The authors demonstrate its effectiveness across multiple datasets, including eight empirical datasets from the Neural Latents Benchmark. Their method outperforms traditional decoding approaches while maintaining simplicity, making it an appealing contribution to the field.",
+    "Strengths": [
+      "The trajectory-centric approach, leveraging statistical constraints, represents a substantial methodological shift that could transform how BCIs interpret and predict neural behavior.",
+      "Extensive evaluation across multiple datasets supports the claim that MINT’s superior performance is not due to overfitting.",
+      "The method's comparative simplicity, especially in contrast to neural network-based approaches, enhances its accessibility and broad applicability."
+    ],
+    "Weaknesses": [
+      "The method appears predominantly applicable to M1/S1 data, with only one of the eight empirical datasets sourced from outside the motor/somatosensory cortex. The authors could further discuss how MINT might perform in other brain regions lacking clear trial structures.",
+      "When comparing methods, MINT’s neural trajectories are derived from averaged trials, whereas comparison methods are trained on single trials. A further analysis incorporating trial-averaged inputs for all decoders could help isolate the effects of averaging."
+    ],
+    "Achievement": "The authors successfully achieve their aim of developing a trajectory-centric BCI decoding method. Their results strongly support their claims, though further validation in non-motor brain areas and an additional trial-averaging analysis could strengthen the study.",
+    "Impact": "MINT has the potential to shift the landscape of BCI decoding by providing a simple yet effective alternative to deep learning-based methods. Its trajectory-centric approach and strong performance across diverse datasets may encourage broader adoption and inspire further research into statistical decoding techniques.",
+    "Context": "While MINT offers a compelling alternative to existing decoding methods, its applicability beyond motor-related tasks remains an open question. Expanding its validation across different neural domains could further solidify its impact."
+  }
+  
+  
+  
