@@ -24,7 +24,7 @@ To better understand why the addition of the one shot prompt did not further imp
 
 
 <p align="center">
-<img src="https://github.com/et22/paper-implementations/blob/main/rajan2006_eigenvalue_spectra/figure2.png" alt="Eigenvalue density with different variance" width="900"/>
+<img src="https://github.com/et22/elife-llm-reviewer/blob/main/figures/figure2.png" alt="figure2" width="900"/>
 </p>
 
 *Figure 2.* Distribution of strength and significance scores from human eLife reviews and from the different LLM reviewers. 
