@@ -60,4 +60,4 @@ Plots can be generated with the jupyter notebook `plot_elife_reviews.ipynb`.
 ### Acknowledgements
 AI Scientist code is copied/adapted from [here](https://github.com/SakanaAI/AI-Scientist). ChatGPT was used to generate a large chunk of the code for fetching and parsing eLife XML. 
 
-The one-shot example paper is an eLife publication by Perkins et al. distributed under the [Creative Commons license](https://creativecommons.org/licenses/by/4.0/).
+All paper text included in this repository is from eLife publications that are distributed under the [Creative Commons license](https://creativecommons.org/licenses/by/4.0/). The publications have been parsed using code in this repository. 
